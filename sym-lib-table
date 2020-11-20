@@ -1,4 +1,4 @@
 (sym_lib_table
-  (lib (name rk3368)(type Legacy)(uri /home/jesse/share/boards/sbc/rk3368-devboard/rk3368/rk3368.lib)(options "")(descr ""))
-  (lib (name rk808)(type Legacy)(uri /home/jesse/share/boards/sbc/rk3368-devboard/rk808/rk808.lib)(options "")(descr ""))
+  (lib (name rk3368)(type Legacy)(uri ${KIPRJMOD}/rk3368/rk3368.lib)(options "")(descr ""))
+  (lib (name rk808)(type Legacy)(uri ${KIPRJMOD}/rk808/rk808.lib)(options "")(descr ""))
 )
