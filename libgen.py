@@ -12,10 +12,10 @@ pos = 0
 for tuples in pins:
 	for pin in pins[tuples]:
 		if pin == pins[tuples][0]:
-			lib_file.write("X " + str(pin) + " " + str(tuples) +" 0 " + str(pos) + " 100 L 50 50 1 1 I\n")
+			lib_file.write("X " + str(tuples) + " " + str(pin) +" 0 " + str(pos) + " 100 L 50 50 1 1 I\n")
 
 		else:
-			lib_file.write("X " + str(pin) + " " + str(tuples) +" 0 " + str(pos) + " 100 L 50 50 1 1 I N\n")
+			lib_file.write("X " + str(tuples) + " " + str(pin) +" 0 " + str(pos) + " 100 L 50 50 1 1 I N\n")
 	pos += 100
 			
 lib_file.write('ENDDRAW\nENDDEF')
