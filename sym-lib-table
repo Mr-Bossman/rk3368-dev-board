@@ -4,4 +4,5 @@
   (lib (name 105162-0001)(type Legacy)(uri ${KIPRJMOD}/105162-0001/105162-0001.lib)(options "")(descr ""))
   (lib (name 10118194-0011LF)(type Legacy)(uri ${KIPRJMOD}/10118194-0011LF/10118194-0011LF.lib)(options "")(descr ""))
   (lib (name XC6421AB03ER-G)(type Legacy)(uri ${KIPRJMOD}/XC6421AB03ER-G/XC6421AB03ER-G.lib)(options "")(descr ""))
+  (lib (name 2-2013310-2)(type Legacy)(uri ${KIPRJMOD}/2-2013310-2/2-2013310-2.lib)(options "")(descr ""))
 )
