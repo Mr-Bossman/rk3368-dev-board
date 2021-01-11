@@ -1,0 +1,3 @@
+[submodule "SODIMM"]
+	path = SODIMM
+	url = https://github.com/Wallbraker/SODIMM.git

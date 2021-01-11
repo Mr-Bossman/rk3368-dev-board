@@ -1,0 +1,38 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 5
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L rk3368:rk3368 U?
+U 2 1 5FFDEDF9
+P 6750 2450
+F 0 "U?" H 6722 2129 50  0000 R CNN
+F 1 "rk3368" H 6722 2220 50  0000 R CNN
+F 2 "" H 7100 -100 50  0001 C CNN
+F 3 "" H 7100 -100 50  0001 C CNN
+	2    6750 2450
+	-1   0    0    1   
+$EndComp
+$Comp
+L rk808:rk808 U?
+U 1 1 5FFCA068
+P 1750 1350
+F 0 "U?" H 2400 1525 50  0000 C CNN
+F 1 "rk808" H 2400 1434 50  0000 C CNN
+F 2 "" H 1650 -1400 50  0001 C CNN
+F 3 "" H 1650 -1400 50  0001 C CNN
+	1    1750 1350
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC

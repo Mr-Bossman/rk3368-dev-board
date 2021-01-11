@@ -1,4 +1,7 @@
 (sym_lib_table
   (lib (name rk3368)(type Legacy)(uri ${KIPRJMOD}/rk3368/rk3368.lib)(options "")(descr ""))
   (lib (name rk808)(type Legacy)(uri ${KIPRJMOD}/rk808/rk808.lib)(options "")(descr ""))
+  (lib (name 105162-0001)(type Legacy)(uri ${KIPRJMOD}/105162-0001/105162-0001.lib)(options "")(descr ""))
+  (lib (name 10118194-0011LF)(type Legacy)(uri ${KIPRJMOD}/10118194-0011LF/10118194-0011LF.lib)(options "")(descr ""))
+  (lib (name XC6421AB03ER-G)(type Legacy)(uri ${KIPRJMOD}/XC6421AB03ER-G/XC6421AB03ER-G.lib)(options "")(descr ""))
 )
